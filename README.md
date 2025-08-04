@@ -10,8 +10,25 @@
 
 </figure>
 
-
 A template for developing university courses using Quarto.
+
+::: {.callout-warning}
+## 🚧 Coming Soon
+
+Note added: 04/08/2025
+
+This template will be updated in the coming weeks, based on things I've implemented downstream ([DS105 (internal 2025/2026)](https://lse-dsi.github.io/DS105/) and [ME204 (2025)](https://lse-dsi.github.io/ME204/) most recently). Planned enhancements include:
+
+- **Multi-year course management** with easy-to-use archiving of older iterations
+- **Modular styling system** for easier customisation and maintenance
+- **Enhanced navigation** with better organisation of course materials
+- **Professional branding system** with consistent typography and colour schemes
+- **Improved search functionality** for better content discovery
+
+These features are being developed and tested in live courses before being added to this template. 
+
+If you have any suggestions, please let me know!
+:::
 
 **Real Examples:**
 
